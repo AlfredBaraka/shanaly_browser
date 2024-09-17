@@ -36,8 +36,8 @@ for url, texts in content.items():
 - `num_results` (int): The number of top search results to process.
 
 ## License
-
+```
 This project is licensed under the MIT License.
 ```
 
-You can adjust the content and instructions based on any additional features or changes you make to your library.
+
