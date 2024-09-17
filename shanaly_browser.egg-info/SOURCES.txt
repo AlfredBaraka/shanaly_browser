@@ -1,0 +1,14 @@
+LICENCE
+README.md
+setup.py
+test.py
+shanaly_browser/__init__.py
+shanaly_browser/browser.py
+shanaly_browser.egg-info/PKG-INFO
+shanaly_browser.egg-info/SOURCES.txt
+shanaly_browser.egg-info/dependency_links.txt
+shanaly_browser.egg-info/requires.txt
+shanaly_browser.egg-info/top_level.txt
+shanaly_browser/__pycache__/__init__.cpython-312.pyc
+shanaly_browser/__pycache__/browser.cpython-312.pyc
+tests/__init__.py

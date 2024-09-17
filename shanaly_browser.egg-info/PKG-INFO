@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: shanaly_browser
+Version: 0.1
+Summary: A library for browsing and extracting content from search results
+Home-page: https://github.com/Shanaly34/shanaly_browser
+Author: Alfred Baraka Rugoye
+Author-email: your.email@example.com
+License-File: LICENCE
+Requires-Dist: selenium
+Requires-Dist: beautifulsoup4
+Requires-Dist: webdriver-manager
